@@ -1,8 +1,7 @@
-# 💎 Design site NFT responsivo usando HTML CSS & JavaScript.
+# Clone do Facebook.
 
-- Contém CSS & ScrollReveal animations.
-- Mobile First methodology.
-- Compatível com todos aparelhos mobile.
+- Contém CSS.
+
 
 💙 Créditos: [Bedimcode](https://youtu.be/eDm7l5ODWuU)
 
